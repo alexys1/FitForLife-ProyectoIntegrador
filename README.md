@@ -6,8 +6,6 @@ FitForLife es una aplicación web desarrollada en Java (Servlets, JSP, JDBC con 
 
 Equipo de desarrollo
 
-(¡Edita esta sección con los nombres y roles/módulos reales!)
-
 Alex Yaranga Salazar (Líder / Módulo de Autenticación y Perfil)
 
 Fred Bryan Vergara Soto  (Desarrollador / Módulo de Progreso y Reporte Excel con Apache POI)
